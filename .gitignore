@@ -1,0 +1,6 @@
+*.jpg
+*.png
+*.bmp
+*.jpeg
+data*/*
+opencv/*
